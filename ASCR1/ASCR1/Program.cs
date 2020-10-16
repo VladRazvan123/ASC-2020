@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualBasic.FileIO;
 
-namespace ASCR1
+namespace ASC2020
 {
     class Program
     {
